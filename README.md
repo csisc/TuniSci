@@ -1,4 +1,4 @@
-# *TuniSci*: Ranking of scholars at Tunisian universities based on h-index and i10-index
+# *TuniSci*: Ranking of scholars at Tunisian universities based on *h-index* and *i10-index*
 By ***Mohamed Fares Landoulsi*** (University of Tunis El Manar, Tunisia)
 
 **The Ranking is live at https://csisc.github.io/TuniSci/ranking.html. To be included, please create your [public Google Scholar profile](https://rankus.univ-sfax.tn/google_scholar.mp4) and include "Tunisia" in your affiliation.**
