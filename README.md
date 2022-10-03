@@ -24,7 +24,7 @@ Finally, it is noteworthy to mention that I have made the project open-source fo
 * **JavaScript:** *[sort-table](https://www.cssscript.com/html-table-sortable/)*.
 
 ## Contributors
-* [Mohamed Fares Landoulsi](https://github.com/Frostbite22) (University of Tunis El Manar, Tunisia)
+* [Mohamed Fares Landoulsi](https://github.com/Frostbite22) (Higher Institute of Computer Science, University of Tunis El Manar, Tunisia)
 * [Houcemeddine Turki](https://scholar.google.ca/citations?user=u25grGjf85sC&hl=fr) (Data Engineering and Semantics Research Unit, University of Sfax, Tunisia)
 
 ## References
