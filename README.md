@@ -23,8 +23,9 @@ Finally, it is noteworthy to mention that I have made the project open-source fo
 * **Python:** *[Google.Colab](https://pypi.org/project/google-colab/)*, *[json](https://docs.python.org/fr/3/library/json.html)*, *[os](https://docs.python.org/fr/3/library/os.html)*, *[datetime](https://pypi.org/project/DateTime/)*, *[scholarly](https://pypi.org/project/scholarly/)*, *[parsel](https://pypi.org/project/parsel/)*, *[requests](https://pypi.org/project/requests/)*, and *[re](https://docs.python.org/fr/3/library/re.html)*. 
 * **JavaScript:** *[sort-table](https://www.cssscript.com/html-table-sortable/)*.
 
-## Acknowledgements
-I thank Houcemeddine Turki (Data Engineering and Semantics Research Unit, University of Sfax, Tunisia) for useful discussion and editing.
+## Contributors
+* Mohamed Fares Landoulsi (University of Tunis El Manar, Tunisia)
+* Houcemeddine Turki (Data Engineering and Semantics Research Unit, University of Sfax, Tunisia)
 
 ## References
 1. Hammouti, B. (2010). Comparative bibliometric study of the scientific production in Maghreb countries (Algeria, Morocco and Tunisia) in 1996-2009 using Scopus. *Journal of Materials & Environmental Science*, 1(2), 70-77.
