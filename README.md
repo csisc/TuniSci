@@ -24,8 +24,8 @@ Finally, it is noteworthy to mention that I have made the project open-source fo
 * **JavaScript:** *[sort-table](https://www.cssscript.com/html-table-sortable/)*.
 
 ## Contributors
-* Mohamed Fares Landoulsi (University of Tunis El Manar, Tunisia)
-* Houcemeddine Turki (Data Engineering and Semantics Research Unit, University of Sfax, Tunisia)
+* [Mohamed Fares Landoulsi](https://github.com/Frostbite22) (University of Tunis El Manar, Tunisia)
+* [Houcemeddine Turki](https://scholar.google.ca/citations?user=u25grGjf85sC&hl=fr) (Data Engineering and Semantics Research Unit, University of Sfax, Tunisia)
 
 ## References
 1. Hammouti, B. (2010). Comparative bibliometric study of the scientific production in Maghreb countries (Algeria, Morocco and Tunisia) in 1996-2009 using Scopus. *Journal of Materials & Environmental Science*, 1(2), 70-77.
